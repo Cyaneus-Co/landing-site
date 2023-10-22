@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@typescript-eslint/parser": "^5.56.0",
+    "@vercel/analytics": "^1.1.1",
     "autoprefixer": "^10.4.14",
     "bulma": "^0.9.4",
     "dotenv": "^16.0.3",

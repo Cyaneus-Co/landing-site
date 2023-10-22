@@ -4,7 +4,7 @@
   <p class="description">
     A social media platform with user privacy and trasparency at it's forefront.
   </p>
-<spacer/>
+  <spacer />
   <div class="box">
     <div id="mc_embed_shell">
       <link
